@@ -42,7 +42,8 @@ twitter: Deepthi_Aras
 linkedin: deepthiprofile
 youtube: UC18yHwj1xmz0xHEuE55regw
 # spotify: myspotify
-github:
+# using "githubb" because "github" stores meta data from github
+# githubb: mygithub
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
