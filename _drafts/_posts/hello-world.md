@@ -1,5 +1,0 @@
----
-title: Hello world
-layout: post
-date: '2017-04-04T01:40:58+00:00'
----
