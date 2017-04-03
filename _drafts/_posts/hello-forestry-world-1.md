@@ -2,9 +2,7 @@
 title: Hello forestry world
 layout: post
 image: "/assets/images/"
-tag: |-
-  - tag1
-  - tag2
+tag: ''
 category: blog
 author: deepthiananthakumar
 date: '2017-04-03T07:22:00+05:30'
